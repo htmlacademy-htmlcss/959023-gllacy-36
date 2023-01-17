@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Ivan Romanov](https://up.htmlacademy.ru/htmlcss/36/user/959023).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Рус](https://htmlacademy.ru/profile/vanillawulf).
 
 ---
 
